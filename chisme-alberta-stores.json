@@ -1,0 +1,497 @@
+{
+  "product": {
+    "name": "Tequila Chisme Blanco",
+    "sku": "143270",
+    "size_ml": 750,
+    "category": "Tequila",
+    "image_url": "https://connectstorageprd.blob.core.windows.net/productimages/143270.jpg",
+    "product_page": "https://www.liquorconnect.com/Products/Item/143270"
+  },
+  "province": "AB",
+  "source": "liquorconnect.com",
+  "source_url": "https://www.liquorconnect.com/Products/Stores/143270",
+  "last_updated": "2026-06-19T13:37:06Z",
+  "store_count": 48,
+  "stores": [
+    {
+      "name": "Aspen Wine & Spirits",
+      "address": "130-366 Aspen Glen Landing SW",
+      "city": "Calgary",
+      "postal": "T3H 0N5",
+      "phone": "(403) 239-4904",
+      "lat": 51.039201,
+      "lng": -114.207503,
+      "directions_url": "https://www.google.com/maps/dir//51.039201,-114.207503"
+    },
+    {
+      "name": "Vine Arts Wine and Spirits",
+      "address": "1310 1 St SW",
+      "city": "Calgary",
+      "postal": "T2R 0V7",
+      "phone": "(403) 290-0700",
+      "lat": 51.04017,
+      "lng": -114.065731,
+      "directions_url": "https://www.google.com/maps/dir//51.04017,-114.065731"
+    },
+    {
+      "name": "Crowfoot Wine & Spirits - Bowness",
+      "address": "Bowfort Road Plaza",
+      "city": "Calgary",
+      "postal": "T3B 2V2",
+      "phone": "(403) 286-8288",
+      "lat": 51.085065,
+      "lng": -114.210206,
+      "directions_url": "https://www.google.com/maps/dir//51.085065,-114.210206"
+    },
+    {
+      "name": "Crowfoot Wine & Spirits- Sunset Ridge",
+      "address": "3101-101 Sunset Drive",
+      "city": "Cochrane",
+      "postal": "T4C 0W7",
+      "phone": "(403) 932-4104",
+      "lat": 51.213174,
+      "lng": -114.470382,
+      "directions_url": "https://www.google.com/maps/dir//51.213174,-114.470382"
+    },
+    {
+      "name": "Spirits West",
+      "address": "414-15 Balsam Avenue",
+      "city": "Bragg Creek",
+      "postal": "T0L 0K0",
+      "phone": "(403) 949-2497",
+      "lat": 50.952045,
+      "lng": -114.562409,
+      "directions_url": "https://www.google.com/maps/dir//50.952045,-114.562409"
+    },
+    {
+      "name": "Color de Vino",
+      "address": "9606 82 Ave NW",
+      "city": "Edmonton",
+      "postal": "T6C 1A1",
+      "phone": "(780) 439-9069",
+      "lat": 53.518336,
+      "lng": -113.477046,
+      "directions_url": "https://www.google.com/maps/dir//53.518336,-113.477046"
+    },
+    {
+      "name": "Inglewood Oak & Vine",
+      "address": "3-1139 9 Ave SE",
+      "city": "Calgary",
+      "postal": "T2G 0S8",
+      "phone": "(403) 455-6333",
+      "lat": 51.041881,
+      "lng": -114.036978,
+      "directions_url": "https://www.google.com/maps/dir//51.041881,-114.036978"
+    },
+    {
+      "name": "Cork Fine Wine Liquor & Ale",
+      "address": "183-250 6 Ave SW",
+      "city": "Calgary",
+      "postal": "T2P 3H7",
+      "phone": "(403) 294-1310",
+      "lat": 51.047974,
+      "lng": -114.067292,
+      "directions_url": "https://www.google.com/maps/dir//51.047974,-114.067292"
+    },
+    {
+      "name": "Craft Cellars",
+      "address": "1345 32 Ave NE",
+      "city": "Calgary",
+      "postal": "T2E 7Z5",
+      "phone": "(403) 277-1868",
+      "lat": 51.080822,
+      "lng": -114.025237,
+      "directions_url": "https://www.google.com/maps/dir//51.080822,-114.025237"
+    },
+    {
+      "name": "Kensington Wine Market",
+      "address": "Kensington Station",
+      "city": "Calgary",
+      "postal": "T2N 3P8",
+      "phone": "(403) 283-8000",
+      "lat": 51.0523813,
+      "lng": -114.0911963,
+      "directions_url": "https://www.google.com/maps/dir//51.0523813,-114.0911963"
+    },
+    {
+      "name": "Crowfoot Wine & Spirits - Altadore",
+      "address": "103-3505 14 Street SW",
+      "city": "Calgary",
+      "postal": "T2T 3W2",
+      "phone": "(403) 454-3056",
+      "lat": 51.022769,
+      "lng": -114.094973,
+      "directions_url": "https://www.google.com/maps/dir//51.022769,-114.094973"
+    },
+    {
+      "name": "Rocky Mountain Wine Spirits & Beer",
+      "address": "5-225 58 Avenue SE",
+      "city": "Calgary",
+      "postal": "T2H 0N8",
+      "phone": "(403) 305-0096",
+      "lat": 51.0013814,
+      "lng": -114.0604431,
+      "directions_url": "https://www.google.com/maps/dir//51.0013814,-114.0604431"
+    },
+    {
+      "name": "Willow Park Wines & Spirits",
+      "address": "10801 Bonaventure Dr SE",
+      "city": "Calgary",
+      "postal": "T2J 6Z8",
+      "phone": "(403) 296-1640",
+      "lat": 50.95572,
+      "lng": -114.068943,
+      "directions_url": "https://www.google.com/maps/dir//50.95572,-114.068943"
+    },
+    {
+      "name": "Highlands Liquor",
+      "address": "11173 65 St NW",
+      "city": "Edmonton",
+      "postal": "T5W 4K2",
+      "phone": "(780) 752-4545",
+      "lat": 53.564739,
+      "lng": -113.437522,
+      "directions_url": "https://www.google.com/maps/dir//53.564739,-113.437522"
+    },
+    {
+      "name": "Bsw Liquor",
+      "address": "10 Main Boulevard",
+      "city": "Sherwood Park",
+      "postal": "T8A 3W8",
+      "phone": "(780) 570-2793",
+      "lat": 53.536851,
+      "lng": -113.318388,
+      "directions_url": "https://www.google.com/maps/dir//53.536851,-113.318388"
+    },
+    {
+      "name": "Bsw Liquor",
+      "address": "300-55 Salisbury Way",
+      "city": "Sherwood Park",
+      "postal": "T8B 0A9",
+      "phone": "(780) 570-2796",
+      "lat": 53.511228,
+      "lng": -113.306983,
+      "directions_url": "https://www.google.com/maps/dir//53.511228,-113.306983"
+    },
+    {
+      "name": "Bsw Liquor",
+      "address": "134-425 Aviation Road NE",
+      "city": "Calgary",
+      "postal": "T2E 7H8",
+      "phone": "(587) 619-1346",
+      "lat": 51.096602,
+      "lng": -114.03137,
+      "directions_url": "https://www.google.com/maps/dir//51.096602,-114.03137"
+    },
+    {
+      "name": "Bsw Liquor",
+      "address": "4120-250 East Hills Square SE",
+      "city": "Calgary",
+      "postal": "T2A 7A7",
+      "phone": "(587) 232-9760",
+      "lat": 51.040415,
+      "lng": -113.909722,
+      "directions_url": "https://www.google.com/maps/dir//51.040415,-113.909722"
+    },
+    {
+      "name": "Mixed Culture Beer Shop",
+      "address": "112-737 7 Avenue",
+      "city": "Canmore",
+      "postal": "T1W 3H8",
+      "phone": "(403) 678-4996",
+      "lat": 51.088977,
+      "lng": -115.360679,
+      "directions_url": "https://www.google.com/maps/dir//51.088977,-115.360679"
+    },
+    {
+      "name": "Westlock Inn",
+      "address": "10411 100 St",
+      "city": "Westlock",
+      "postal": "T7P 2G7",
+      "phone": "(780) 349-4483",
+      "lat": 54.151217,
+      "lng": -113.849331,
+      "directions_url": "https://www.google.com/maps/dir//54.151217,-113.849331"
+    },
+    {
+      "name": "Andrew Hilton Wine & Spirits",
+      "address": "212 3 Ave S",
+      "city": "Lethbridge",
+      "postal": "T1J 0G9",
+      "phone": "(403) 320-9464",
+      "lat": 49.695307,
+      "lng": -112.844162,
+      "directions_url": "https://www.google.com/maps/dir//49.695307,-112.844162"
+    },
+    {
+      "name": "Liquorama",
+      "address": "1710-6004 Country Hills Blvd NE",
+      "city": "Calgary",
+      "postal": "T3N 1T9",
+      "phone": "(403) 475-6525",
+      "lat": 51.154614,
+      "lng": -113.95134,
+      "directions_url": "https://www.google.com/maps/dir//51.154614,-113.95134"
+    },
+    {
+      "name": "Malts & Grains",
+      "address": "10816 170 Street NW",
+      "city": "Edmonton",
+      "postal": "T5S 2H7",
+      "phone": "(825) 975-1973",
+      "lat": 53.55461,
+      "lng": -113.61649,
+      "directions_url": "https://www.google.com/maps/dir//53.55461,-113.61649"
+    },
+    {
+      "name": "Silver Springs Liquor Store",
+      "address": "188-8060 Silver Springs Blvd NW",
+      "city": "Calgary",
+      "postal": "T3B 5K1",
+      "phone": "(403) 288-4760",
+      "lat": 51.116018,
+      "lng": -114.204914,
+      "directions_url": "https://www.google.com/maps/dir//51.116018,-114.204914"
+    },
+    {
+      "name": "Crowfoot Wine & Spirits - Signature",
+      "address": "Location",
+      "city": "Calgary",
+      "postal": "T3G 3N7",
+      "phone": "(403) 296-2200",
+      "lat": 51.126694,
+      "lng": -114.196559,
+      "directions_url": "https://www.google.com/maps/dir//51.126694,-114.196559"
+    },
+    {
+      "name": "Calgary Co-Op Wines & Spirits - Oakridge",
+      "address": "2570 Southland Drive SW",
+      "city": "Calgary",
+      "postal": "T2V 4J8",
+      "phone": "(403) 299-5444",
+      "lat": 50.961658,
+      "lng": -114.120501,
+      "directions_url": "https://www.google.com/maps/dir//50.961658,-114.120501"
+    },
+    {
+      "name": "Kj Wines & Spirits Inc.",
+      "address": "141-555 11 Ave SW",
+      "city": "Calgary",
+      "postal": "T2R 1P6",
+      "phone": "(403) 237-8840",
+      "lat": 51.042363,
+      "lng": -114.073631,
+      "directions_url": "https://www.google.com/maps/dir//51.042363,-114.073631"
+    },
+    {
+      "name": "Eastport Liquor Store",
+      "address": "50-150 52 Street NE",
+      "city": "Calgary",
+      "postal": "T2A 4K8",
+      "phone": "(403) 248-6968",
+      "lat": 51.054153,
+      "lng": -113.954778,
+      "directions_url": "https://www.google.com/maps/dir//51.054153,-113.954778"
+    },
+    {
+      "name": "Crowfoot Wine & Spirits - Downtown",
+      "address": "1402 14 Street SW",
+      "city": "Calgary",
+      "postal": "T3C 3T4",
+      "phone": "(403) 228-2286",
+      "lat": 51.040128,
+      "lng": -114.094315,
+      "directions_url": "https://www.google.com/maps/dir//51.040128,-114.094315"
+    },
+    {
+      "name": "Calgary Co-Op Wines & Spirits - Macleod",
+      "address": "Trail",
+      "city": "Calgary",
+      "postal": "T2H 0M4",
+      "phone": "(403) 299-4288",
+      "lat": 50.9726589,
+      "lng": -114.0725911,
+      "directions_url": "https://www.google.com/maps/dir//50.9726589,-114.0725911"
+    },
+    {
+      "name": "Calgary Co-Op Wines & Spirits - Forest",
+      "address": "Lawn",
+      "city": "Calgary",
+      "postal": "T2A 0P9",
+      "phone": "(403) 299-4372",
+      "lat": 51.0377203,
+      "lng": -113.9709091,
+      "directions_url": "https://www.google.com/maps/dir//51.0377203,-113.9709091"
+    },
+    {
+      "name": "Keg N Cork",
+      "address": "3845 99 St NW",
+      "city": "Edmonton",
+      "postal": "T6E 6H6",
+      "phone": "(780) 461-0191",
+      "lat": 53.473047,
+      "lng": -113.485268,
+      "directions_url": "https://www.google.com/maps/dir//53.473047,-113.485268"
+    },
+    {
+      "name": "Sherbrooke Liquor Store",
+      "address": "11819 St Albert Trail NW",
+      "city": "Edmonton",
+      "postal": "T5L 5B5",
+      "phone": "(780) 455-4556",
+      "lat": 53.570974,
+      "lng": -113.548746,
+      "directions_url": "https://www.google.com/maps/dir//53.570974,-113.548746"
+    },
+    {
+      "name": "Highlander Liquor Store",
+      "address": "2033 16 Ave NW",
+      "city": "Calgary",
+      "postal": "T2M 0M3",
+      "phone": "(403) 640-7759",
+      "lat": 51.066386,
+      "lng": -114.107618,
+      "directions_url": "https://www.google.com/maps/dir//51.066386,-114.107618"
+    },
+    {
+      "name": "Calgary Co-Op Wines & Spirits - Midtown",
+      "address": "Market",
+      "city": "Calgary",
+      "postal": "T2R 1G2",
+      "phone": "(403) 299-4233",
+      "lat": 51.0641813,
+      "lng": -114.0867663,
+      "directions_url": "https://www.google.com/maps/dir//51.0641813,-114.0867663"
+    },
+    {
+      "name": "Highlander Wine & Spirits - Richmond",
+      "address": "2919 Richmond Rd SW",
+      "city": "Calgary",
+      "postal": "T3E 4N3",
+      "phone": "(403) 233-2629",
+      "lat": 51.02561,
+      "lng": -114.128953,
+      "directions_url": "https://www.google.com/maps/dir//51.02561,-114.128953"
+    },
+    {
+      "name": "Jack'S Liquor Store",
+      "address": "9012 50 St NW",
+      "city": "Edmonton",
+      "postal": "T6B 2Z5",
+      "phone": "(780) 490-7631",
+      "lat": 53.522398,
+      "lng": -113.419249,
+      "directions_url": "https://www.google.com/maps/dir//53.522398,-113.419249"
+    },
+    {
+      "name": "Crowfoot Wine & Spirits - Heritage",
+      "address": "Pointe",
+      "city": "Heritage Pointe",
+      "postal": "T1S 4J9",
+      "phone": "(403) 873-7650",
+      "lat": 50.8405294,
+      "lng": -114.0063841,
+      "directions_url": "https://www.google.com/maps/dir//50.8405294,-114.0063841"
+    },
+    {
+      "name": "Sip Liquor Market",
+      "address": "2-10240 124 St NW",
+      "city": "Edmonton",
+      "postal": "T5N 3W6",
+      "phone": "(780) 868-6157",
+      "lat": 53.544237,
+      "lng": -113.536281,
+      "directions_url": "https://www.google.com/maps/dir//53.544237,-113.536281"
+    },
+    {
+      "name": "Bsw Liquor",
+      "address": "5044 167 Avenue NW",
+      "city": "Edmonton",
+      "postal": "T5Y 4C5",
+      "phone": "(403) 918-3740",
+      "lat": 53.629292,
+      "lng": -113.413656,
+      "directions_url": "https://www.google.com/maps/dir//53.629292,-113.413656"
+    },
+    {
+      "name": "Vine Arts Wine and Spirits",
+      "address": "10961 124 St NW",
+      "city": "Edmonton",
+      "postal": "T5M 0H9",
+      "phone": "(587) 735-2372",
+      "lat": 53.55602,
+      "lng": -113.53568,
+      "directions_url": "https://www.google.com/maps/dir//53.55602,-113.53568"
+    },
+    {
+      "name": "Skyway Concourse A - Departures",
+      "address": "D83R02-2000 Airport Road NE",
+      "city": "Calgary",
+      "postal": "T2E 6W5",
+      "phone": "(403) 250-5610",
+      "lat": 51.1273859,
+      "lng": -114.0088987,
+      "directions_url": "https://www.google.com/maps/dir//51.1273859,-114.0088987"
+    },
+    {
+      "name": "Crown Cellars",
+      "address": "3130-40 Christie Park View SW",
+      "city": "Calgary",
+      "postal": "T3H 6E7",
+      "phone": "(403) 470-3527",
+      "lat": 51.037396,
+      "lng": -114.17722,
+      "directions_url": "https://www.google.com/maps/dir//51.037396,-114.17722"
+    },
+    {
+      "name": "the Wine Shop",
+      "address": "Glenmore Landing",
+      "city": "Calgary",
+      "postal": "T2V 5A8",
+      "phone": "",
+      "lat": 50.973265,
+      "lng": -114.098111,
+      "directions_url": "https://www.google.com/maps/dir//50.973265,-114.098111"
+    },
+    {
+      "name": "Bsw Liquor",
+      "address": "210- 1155 Cornerstone Boulevard NE",
+      "city": "Calgary",
+      "postal": "T3N 1A6",
+      "phone": "",
+      "lat": 51.155337,
+      "lng": -113.942027,
+      "directions_url": "https://www.google.com/maps/dir//51.155337,-113.942027"
+    },
+    {
+      "name": "Yeg Wine N Spirits",
+      "address": "16618 109 Ave NW",
+      "city": "Edmonton",
+      "postal": "T5P 1C2",
+      "phone": "(780) 250-6478",
+      "lat": 53.556355,
+      "lng": -113.606236,
+      "directions_url": "https://www.google.com/maps/dir//53.556355,-113.606236"
+    },
+    {
+      "name": "Hinton Liquor Store",
+      "address": "125 Jasper St",
+      "city": "Hinton",
+      "postal": "T7V 2A8",
+      "phone": "(780) 710-5787",
+      "lat": 53.398727,
+      "lng": -117.591266,
+      "directions_url": "https://www.google.com/maps/dir//53.398727,-117.591266"
+    },
+    {
+      "name": "New Discovery Fine Wines and Spirits",
+      "address": "916-10 Discovery Ridge Hill SW",
+      "city": "Calgary",
+      "postal": "T3H 5X2",
+      "phone": "(587) 821-6723",
+      "lat": 51.015606,
+      "lng": -114.213362,
+      "directions_url": "https://www.google.com/maps/dir//51.015606,-114.213362"
+    }
+  ]
+}
