@@ -20,7 +20,7 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 REPO_DIR="$(cd "$SCRIPT_DIR/.." && pwd)"
 LOG="$REPO_DIR/run.log"
 JSON="$REPO_DIR/chisme-alberta-stores.json"
-PY="${PYTHON_BIN:-/usr/bin/python3}"
+PY="${PYTHON_BIN:-/opt/homebrew/bin/python3.13}"
 
 # Make sure gh-provided git credentials + git are on PATH for launchd.
 export PATH="/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:$PATH"
