@@ -10,7 +10,7 @@
   "province": "AB",
   "source": "liquorconnect.com",
   "source_url": "https://www.liquorconnect.com/Products/Stores/143270",
-  "last_updated": "2026-06-19T13:44:34Z",
+  "last_updated": "2026-06-22T10:00:00Z",
   "store_count": 48,
   "stores": [
     {
@@ -389,9 +389,9 @@
       "city": "Heritage Pointe",
       "postal": "T1S 4J9",
       "phone": "(403) 873-7650",
-      "lat": 50.8405294,
-      "lng": -114.0063841,
-      "directions_url": "https://www.google.com/maps/dir//50.8405294,-114.0063841"
+      "lat": 50.8430892,
+      "lng": -113.977449,
+      "directions_url": "https://www.google.com/maps/dir//50.8430892,-113.977449"
     },
     {
       "name": "Sip Liquor Market",
