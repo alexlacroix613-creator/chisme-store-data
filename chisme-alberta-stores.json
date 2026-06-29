@@ -10,8 +10,8 @@
   "province": "AB",
   "source": "liquorconnect.com",
   "source_url": "https://www.liquorconnect.com/Products/Stores/143270",
-  "last_updated": "2026-06-22T10:00:00Z",
-  "store_count": 48,
+  "last_updated": "2026-06-29T10:00:02Z",
+  "store_count": 49,
   "stores": [
     {
       "name": "Aspen Wine & Spirits",
@@ -124,16 +124,6 @@
       "directions_url": "https://www.google.com/maps/dir//51.022769,-114.094973"
     },
     {
-      "name": "Rocky Mountain Wine Spirits & Beer",
-      "address": "5-225 58 Avenue SE",
-      "city": "Calgary",
-      "postal": "T2H 0N8",
-      "phone": "(403) 305-0096",
-      "lat": 51.0013814,
-      "lng": -114.0604431,
-      "directions_url": "https://www.google.com/maps/dir//51.0013814,-114.0604431"
-    },
-    {
       "name": "Willow Park Wines & Spirits",
       "address": "10801 Bonaventure Dr SE",
       "city": "Calgary",
@@ -142,6 +132,16 @@
       "lat": 50.95572,
       "lng": -114.068943,
       "directions_url": "https://www.google.com/maps/dir//50.95572,-114.068943"
+    },
+    {
+      "name": "Liquor Ex Outlet Stores Inc.",
+      "address": "112-25 Chisholm Ave",
+      "city": "St. Albert",
+      "postal": "T8N 5A5",
+      "phone": "(780) 458-5257",
+      "lat": 53.638076,
+      "lng": -113.571265,
+      "directions_url": "https://www.google.com/maps/dir//53.638076,-113.571265"
     },
     {
       "name": "Highlands Liquor",
@@ -334,6 +334,16 @@
       "directions_url": "https://www.google.com/maps/dir//53.473047,-113.485268"
     },
     {
+      "name": "Olympia Liquor Store (Westgate)",
+      "address": "B-3708 17 Avenue SW",
+      "city": "Calgary",
+      "postal": "T3E 0B8",
+      "phone": "(403) 685-1130",
+      "lat": 51.0380184,
+      "lng": -114.1396521,
+      "directions_url": "https://www.google.com/maps/dir//51.0380184,-114.1396521"
+    },
+    {
       "name": "Sherbrooke Liquor Store",
       "address": "11819 St Albert Trail NW",
       "city": "Edmonton",
@@ -389,9 +399,9 @@
       "city": "Heritage Pointe",
       "postal": "T1S 4J9",
       "phone": "(403) 873-7650",
-      "lat": 50.8430892,
-      "lng": -113.977449,
-      "directions_url": "https://www.google.com/maps/dir//50.8430892,-113.977449"
+      "lat": 50.8405294,
+      "lng": -114.0063841,
+      "directions_url": "https://www.google.com/maps/dir//50.8405294,-114.0063841"
     },
     {
       "name": "Sip Liquor Market",
